@@ -1,0 +1,137 @@
+.navbar a{
+    font-family: 'Lobster', cursive;
+font-size: 20px;
+color: black    !important;
+transition: all .5s;
+}
+.navbar a:hover{
+  
+   /* background-color: rgb(107, 196, 144);*/
+    color:rgb(251, 210, 171) !important;
+    font-size: 18;
+   
+}
+.nav-button{
+    font-family: 'Lobster', cursive;
+    padding:10px 20px;
+  
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: transparent;
+    color:black;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s; 
+}
+nav  .nav-button:hover{
+    background-color: rgb(251, 210, 171);
+    color:black;
+    font-size: 18;
+}
+
+header{
+    font-family: 'Lobster', cursive !important;
+    background-image: url(../images/WhatsApp\ Image\ 2021-04-29\ at\ 6.50.14\ PM.jpeg);
+background-size:cover ;
+background-position:  center;
+height: 90vh;
+}
+
+    
+header .content h1 {
+    font-family: 'Lobster', cursive !important;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 70px;
+  
+}
+header  h3{
+    font-family: 'Lobster', cursive !important;
+    margin: 0px 10px 10px ;
+    font-size: 35px;
+}
+
+header    input{
+    background-color: transparent;
+    font-size: 20px;
+    padding: 5px;
+    border-color: #9c9c9c3d;
+    margin: 15px;
+}
+
+
+header .content  .submit{
+    font-family: 'Lobster', cursive;
+    padding:10px 30px;
+    font-size: 17px;
+    margin: 10px   0px  10px    10px ;
+   
+    border: 2px solid white;
+    border-radius: 30px;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+header .content .submit:hover{
+    background-color: rgb(157, 226, 247);
+    color:white;
+    font-size: 18;
+}
+header .content .createaccount .signup{
+    border: none;
+}
+.createaccount{
+    font-family: 'Lobster', cursive;
+    padding:10px 30px;
+    font-size: 17px;
+    margin: 10px   0px  10px    10px ;
+   
+    border: 2px solid white; 
+    border-radius: 30px;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.createaccount:hover{
+    background-color: rgb(157, 226, 247);
+    color:white;
+    font-size: 18;
+}
+
+.signup{
+    font-family: 'Lobster', cursive;
+    padding:10px 30px;
+    font-size: 17px;
+    margin: 10px   0px  10px    10px ;
+    border: 2px solid white;
+    border-radius: 40px;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+.signup:hover{
+    background-color: rgb(251, 210, 171);
+    color:white;
+    font-size: 18;
+}

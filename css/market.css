@@ -1,0 +1,109 @@
+body{
+    font-family: 'Lobster', cursive;
+
+}
+.navbar a{
+    font-family: 'Lobster', cursive;
+font-size: 20px;
+color: black    !important;
+transition: all .5s;
+}
+.navbar a:hover{
+  
+   /* background-color: rgb(107, 196, 144);*/
+    color:rgb(251, 210, 171) !important;
+    font-size: 18;
+   
+}
+.nav-button{
+    font-family: 'Lobster', cursive;
+    padding:10px 20px;
+  
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: transparent;
+    color:black;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s; 
+}
+nav  .nav-button:hover{
+    background-color: rgb(251, 210, 171);
+    color:black;
+    font-size: 18;
+}
+.section-one
+{
+    background-color: rgb(255, 207, 184);
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+.headertext
+{
+position: absolute;
+top: 25%;
+right: 11%;
+font-size: 100px;
+}
+
+.section-one
+{
+    margin-bottom: 300px;
+}
+
+.text-one
+{
+    text-align: center;
+    font-size: 50px;
+}
+.text-pragraph
+{
+    margin-top: 20%;
+}
+.imgOne
+{
+    position: relative;
+}
+.hover-one
+{
+position: absolute;
+top: 10px;
+bottom: 0;
+left: 0;
+right: 0;
+font-size: 35px;
+text-align: center;
+opacity: 0;
+}
+div .hover-one:hover
+{
+    opacity: 1;
+    transition: 2s;
+}
+div .after::after
+
+{
+color: black;
+    width: 10px;
+    height: 3px;
+}
+
+.section-finally
+{
+    position: relative;
+    background-color: rgb(182, 180, 179);
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+
+.textTwo
+{
+position: absolute;
+top: 25%;
+right: 11%;
+font-size: 70px;
+}

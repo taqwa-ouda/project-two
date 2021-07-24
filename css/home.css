@@ -1,0 +1,167 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.navbar a{
+font-size: 20px;
+color: black    !important;
+transition: all .5s;
+}
+.navbar a:hover{
+  
+   /* background-color: rgb(107, 196, 144);*/
+    color:rgb(251, 210, 171) !important;
+    font-size: 18;
+   
+}
+.nav-button{
+    padding:10px 20px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: transparent;
+    color:black;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s; 
+}
+nav  .nav-button:hover{
+    background-color: rgb(251, 210, 171);
+    color:black;
+    font-size: 18;
+}
+body{
+    background-image: url(../images/7.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    
+}
+  
+
+ h1{
+    background-color: rgba(0,0,0,0.8);
+    text-align: center;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    height: 60px;
+
+}
+.well  {
+    background-color: rgba(0,0,0,0.5);
+    margin-left: 70px;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    width: 90%;
+    text-align: center;
+   color: white;
+}
+.well h2 {
+    padding: 20px;
+
+}
+.well p{
+    padding: 20px;
+    font-size: 17px;
+}
+.normal{
+    
+    background-color: rgba(0,0,0,0.5);
+    margin-left: 650px;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    color: white;
+  
+}
+.normal p{
+    padding: 20px;
+    font-size: 17px;
+}
+.normal a {
+    background-color:rgb(221, 145, 158);
+    color:  rgb(26, 26, 51);
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 500px;
+    
+}
+.dry{
+        
+    background-color: rgba(0,0,0,0.5);
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+   color: white;
+  
+
+}
+.dry p{
+    padding: 20px;
+    font-size: 17px;
+}
+.dry a {
+    background-color:rgb(221, 145, 158);
+    color:  rgb(26, 26, 51);
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 500px;
+    
+}
+.oil{
+        
+    background-color: rgba(0,0,0,0.5);
+    margin-left: 650px;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    color: white;
+
+}
+.oil p{
+    padding: 20px;
+    font-size: 17px;
+}
+.oil  a {
+    background-color:rgb(221, 145, 158);
+    color:  rgb(26, 26, 51);
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 500px;
+    
+}
+.com{
+        
+    background-color: rgba(0,0,0,0.5);
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+    color: white;
+    margin-bottom: 150px;
+  
+
+}
+.com p{
+    padding: 20px;
+    font-size: 17px;
+}
+
+.com  a {
+    background-color:rgb(221, 145, 158);
+    color:  rgb(26, 26, 51);
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 500px;
+    
+}

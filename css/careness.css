@@ -1,0 +1,154 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+    background-image: cover;
+}
+.navbar a{
+font-size: 20px;
+color: black    !important;
+transition: all .5s;
+}
+.navbar a:hover{
+  
+   /* background-color: rgb(107, 196, 144);*/
+    color:rgb(251, 210, 171) !important;
+    font-size: 18;
+   
+}
+.nav-button{
+    padding:10px 20px;
+    border: 1px solid white;
+    border-radius: 50px;
+    background-color: transparent;
+    color:black;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s; 
+}
+nav  .nav-button:hover{
+    background-color: rgb(251, 210, 171);
+    color:black;
+    font-size: 18;
+}
+.frist{
+   background-image: url(../images/22.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100%
+}
+
+
+.fri{
+    background-color: rgba(0,0,0,0.5);
+	height: 100%;
+    color: white;
+    text-align: center;
+    padding: 200px;
+    
+}
+.fri p
+ {
+     padding: 50px;
+
+}
+
+.sec
+{ background-color: rgba(0,0,0,0.5);
+    height: 900px;
+    
+}
+.sec h1 
+{
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+.sec p
+{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    width: 50%;
+    border-radius: 20px; 
+    padding: 15px;  
+}
+.one{
+    margin-left: 100px;
+}
+.two{
+    margin-left: 200px;
+}
+.theree{
+    margin-left: 300px;
+}
+.four{
+    margin-left: 400px;
+}.five{
+    margin-left: 550px;
+    margin-bottom: 50px;
+}
+
+.sec a {
+    background-color:rgb(221, 145, 158);
+    color:rgb(26, 26, 51);
+    margin-top: 90px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 600px
+}
+.fasel 
+{
+    height: 50px;
+}
+.three
+{
+    background-color:rgb(219, 171, 179) ;
+}
+
+.mask
+{
+    padding: 50px;
+}
+
+.mask p
+{
+    font-size: 25px;
+ 
+}
+.container
+{
+    margin-top: 50px;
+}
+/* .text-4
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:200;
+}
+.pragraph
+{
+    margin-top: 20px;
+    font-size: 20px;
+
+} */
+
+.ro1 p
+{
+    
+    padding-top: 20px;
+    font-size: 20px;
+}
+.ro2 p
+{
+    
+    padding-top: 40px;
+    font-size: 20px;
+}
+.ro3 p
+{
+    
+    padding-top: 10px;
+    font-size: 20px;
+}
